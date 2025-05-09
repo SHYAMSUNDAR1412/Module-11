@@ -78,6 +78,6 @@ print(ll.find_middle())
 ![image](https://github.com/user-attachments/assets/754e4ca2-9cb9-49a4-9345-101f53b61140)
 
 ## Result
-Thus, the Python program has been created and executed successfully to find the middle node of a singly linked list using recursion for both even..
+Thus, the Python program has been created and executed successfully ..
 
 
